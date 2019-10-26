@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = '4a81b9913ea7d2db-7b5afd0c75eb1bd1-3bc1c27826fcdd61';
+	$webhook = 'Kupi prodai';
 	
 	$jsonData = 
 	'{
